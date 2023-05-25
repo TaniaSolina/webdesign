@@ -1,0 +1,33 @@
+.w-23 {
+    width: 23%;
+}
+
+body {
+    background: linear-gradient(90deg, #d300cc, #337aff, #66ff6e,#b9ffb3, 
+        #FFFFFF,#FFFFFF,#FFFFFF, #FFFFFF, #FFFFFF, #FFFFFF, #FFFFFF, 
+        #b9ffb3, #66ff6e, #337aff,#d300cc);
+}
+
+.button-auth {
+    background-color: #0055D3;
+}
+
+.button-auth:hover, .button-auth:active, .button-auth:focus {
+    color: #ffffff !important;
+    background-color: white !important;
+    border-color: #0400d3 !important;
+}
+
+.button-text-white {
+    color: white;
+}
+
+.button-auth:hover, .button-auth:active, .button-auth:focus {
+    color: #0400d3 !important;
+}
+
+input:focus {
+    outline: none;
+    background-color: transparent !important;
+    border-color:  transparent !important;
+}
